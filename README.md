@@ -48,4 +48,4 @@ Examples
 
 There are several example notebooks showing a variety of use cases in `notebooks/`. For example, we provide a demo notebook using the `UMAP` algorithm available in NVIDIA's RAPIDS machine learning library, which produces the following output:
 
-![img]("./JupyterPV_Example.png")
+![img](JupyterPV_Example.png)
